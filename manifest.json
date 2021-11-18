@@ -1,0 +1,32 @@
+{
+	"name": "Check Shortlist",
+	"description": "Check shortlist for given roll numbers",
+	"version": "1.0",
+	"author": {
+		"name": "sleepingsaint",
+		"github": "https://github.com/sleepingsaint/"
+	}, 
+	"manifest_version": 3,
+	"permissions": ["activeTab", "scripting", "storage"],
+	"action": {
+		"default_popup": "popup.html",
+		"default_icon": {
+			"512": "assets/checked_512.png",
+			"256": "assets/checked_256.png",
+			"128": "assets/checked_128.png",
+			"64": "assets/checked_64.png",
+			"32": "assets/checked_32.png",
+			"24": "assets/checked_24.png",
+			"16": "assets/checked_16.png"
+		}
+	},
+	"icons": {
+		"512": "assets/checked_512.png",
+		"256": "assets/checked_256.png",
+		"128": "assets/checked_128.png",
+		"64": "assets/checked_64.png",
+		"32": "assets/checked_32.png",
+		"24": "assets/checked_24.png",
+		"16": "assets/checked_16.png"
+	}
+}
