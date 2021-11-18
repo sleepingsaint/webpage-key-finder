@@ -7,7 +7,8 @@ Icons are taken from [flaticon](https://www.flaticon.com/free-icon/checked_19041
 ## Usage
 
 Author: sleepingsaint @github
-Repo Link: https://github.com:sleepingsaint/auto-fill-feedback-iitkgp.git
+
+Repo Link: https://github.com/sleepingsaint/webpage-key-finder 
 
 ## Installation 
 
